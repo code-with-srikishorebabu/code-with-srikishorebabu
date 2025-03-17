@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Sri Kishorebabu Venigandla  
 
-<!--
-**code-with-srikishorebabu/code-with-srikishorebabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's in Computer Science | Saint Leo University**  
+💻 Passionate about Software Development, Database Management, and Web Technologies  
+🚀 Currently Seeking Internship Opportunities  
 
-Here are some ideas to get you started:
+📫 **Contact Me:**  
+- **Email:** venigandlakishore@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **GitHub:** [Your GitHub Profile](#)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills  
+- **Languages:** C, Python  
+- **Web Technologies:** HTML, CSS  
+- **Databases:** SQL  
+- **Tools & Platforms:** Git, Linux, VS Code  
+
+---
+
+## 📂 Featured Projects  
+
+### **1. Student Database Management System**  
+📌 SQL-based system for efficient student record management  
+🔗 [GitHub Repository](#)  
+
+### **2. Personal Portfolio Website**  
+📌 Responsive website showcasing my work  
+🔗 [Live Demo](#) | [GitHub Repository](#)  
+
+### **3. Python-Based Task Automation Tool**  
+📌 Automates repetitive file management tasks  
+🔗 [GitHub Repository](#)  
+
+---
+
+## 💼 Work Experience  
+👨‍💻 **Software Development Intern | Sample Tech Solutions** (May 2024 – Present)  
+👨‍💻 **IT Support Assistant | Saint Leo University** (Jan 2024 – May 2024)  
+
+---
+
+## 🏆 Certifications & Achievements  
+✅ SQL for Data Science (Coursera)  
+✅ Python for Everybody (University of Michigan)  
+
+---
+
+🌟 *Let's Connect & Build Amazing Things Together!* 🌟
